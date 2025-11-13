@@ -27,6 +27,7 @@
     },
     "plugins": [
       "expo-router",
+      "nativewind/metro",
       [
         "expo-splash-screen",
         {
