@@ -9,7 +9,9 @@ module.exports = {
     extend: {
       colors:{
         backgroundcolor:"#1A1A1D",
-        goldenhighlights: "#D4AF37"
+        goldenhighlights: "#D4AF37",
+        backgroundtopcolor: "#182233",
+        backgroundbottomcolor: "#05070D",
       }
     },
   },

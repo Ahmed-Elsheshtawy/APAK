@@ -1,4 +1,5 @@
-import { default as poppinsBold, default as poppinsExtraBold } from "@/assets/fonts/poppins/Poppins-ExtraBold.ttf";
+import poppinsBold from "@/assets/fonts/poppins/Poppins-Bold.ttf";
+import poppinsExtraBold from "@/assets/fonts/poppins/Poppins-ExtraBold.ttf";
 import poppinsExtraLight from "@/assets/fonts/poppins/Poppins-ExtraLight.ttf";
 import poppinsLight from "@/assets/fonts/poppins/Poppins-Light.ttf";
 import poppinsThin from "@/assets/fonts/poppins/Poppins-Thin.ttf";
